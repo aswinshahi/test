@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
 k cha
+=======
+hello
+>>>>>>> baa7f35fd2a712ab46fd4d55a8fc91c426968ae3
